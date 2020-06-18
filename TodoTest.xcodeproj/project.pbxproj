@@ -13,6 +13,7 @@
 		17FE1C20249B087B000F1C9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17FE1C1F249B087B000F1C9E /* Assets.xcassets */; };
 		17FE1C23249B087B000F1C9E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17FE1C22249B087B000F1C9E /* Preview Assets.xcassets */; };
 		17FE1C26249B087B000F1C9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17FE1C24249B087B000F1C9E /* LaunchScreen.storyboard */; };
+		17FE1C2E249B0ED2000F1C9E /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = 17FE1C2D249B0ED2000F1C9E /* index.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		17FE1C22249B087B000F1C9E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		17FE1C25249B087B000F1C9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17FE1C27249B087B000F1C9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17FE1C2D249B0ED2000F1C9E /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				17FE1C19249B087A000F1C9E /* AppDelegate.swift */,
 				17FE1C1B249B087A000F1C9E /* SceneDelegate.swift */,
 				17FE1C1D249B087A000F1C9E /* ContentView.swift */,
+				17FE1C2D249B0ED2000F1C9E /* index.js */,
 				17FE1C1F249B087B000F1C9E /* Assets.xcassets */,
 				17FE1C24249B087B000F1C9E /* LaunchScreen.storyboard */,
 				17FE1C27249B087B000F1C9E /* Info.plist */,
@@ -136,6 +139,7 @@
 				17FE1C26249B087B000F1C9E /* LaunchScreen.storyboard in Resources */,
 				17FE1C23249B087B000F1C9E /* Preview Assets.xcassets in Resources */,
 				17FE1C20249B087B000F1C9E /* Assets.xcassets in Resources */,
+				17FE1C2E249B0ED2000F1C9E /* index.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
